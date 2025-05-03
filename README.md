@@ -1,3 +1,5 @@
+GITHUB 팀계정 - https://github.com/CBNU-2024-Eclipse
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
